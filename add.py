@@ -1,8 +1,6 @@
 def jayshree():
-    print(3)
-    print("commited the change")
+    print(1)
 
 def saachin():
     print(2)
-    
     
